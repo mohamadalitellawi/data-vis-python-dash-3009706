@@ -47,3 +47,9 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 
 [lil-course-url]: https://www.linkedin.com/learning/data-visualization-in-python-with-dash
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D560DAQEAeskwXJ66Cw/learning-public-crop_675_1200/B56ZS91c0IGQAY-/0/1738351693741?e=2147483647&v=beta&t=kNWAg9Z4js9NGvU3gBMdTJTdE_UIwZKZ6Sd-YPLnqjE
+
+# Add uv support
+```
+uv init
+uv add -r requirements.txt
+```
